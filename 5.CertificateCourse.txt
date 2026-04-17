@@ -1,0 +1,4 @@
+CC001|Ai Agent|2000
+CC002|Generative Ai|2000
+CC003|Machine Learning|1000
+SD001|System Design|3000

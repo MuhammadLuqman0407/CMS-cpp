@@ -1,0 +1,4 @@
+NC001|Software Engineering
+NC002|System Design
+NC003|Operating System
+NC004|OOP (CPP/JAVA)
